@@ -1,5 +1,5 @@
 # Hola, yo soy Katherin 
-## Soy tecnologa en **analisís y desarrollo de sistemas de informacion** 
+## Soy tecnologa en **analisís y desarrollo de sistemas de información** 
 soy de Mdellín Colombia me enfoco en el *desarrollo web* 
 | tengo conocimientos en:  |
 |--------------------------|
