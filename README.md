@@ -1,5 +1,16 @@
 # 💫 About Me:
-¡Hola a todos! 👋 Soy [Katherin],  soy tecnologa en *Analisís y desarrollo de sistemas de información*  una apasionada programadora frontend, vivo en Colombia, ¡y estoy lista para marcar la diferencia en el mundo del desarrollo web!<br>Desde que me adentré en el fascinante mundo del desarrollo frontend, mi entusiasmo y curiosidad no han hecho más que crecer. Soy una mente inquieta, siempre en busca de nuevos conocimientos y habilidades para mejorar mis capacidades técnicas y creativas.<br>Mi objetivo es convertirme en una experta en la creación de experiencias de usuario excepcionales a través de la combinación de diseño atractivo y funcionalidad impecable. Estoy constantemente buscando oportunidades para trabajar en proyectos desafiantes que me permitan expandir mi conocimiento en tecnologías como HTML, CSS, JavaScript y frameworks como React.<br>Mi pasión por el desarrollo frontend va más allá de escribir código. Me gusta trabajar en equipo, aportar ideas innovadoras y trabajar en conjunto para alcanzar objetivos ambiciosos.<br>Estoy emocionada por la posibilidad de trabajar en proyectos diversos que me permitan seguir aprendiendo y creciendo como profesional. <br><br>Si estás buscando a alguien con pasión, creatividad y un espíritu de equipo fuerte, ¡soy la persona indicada!<br>¡No dudes en contactarme para discutir cómo puedo contribuir al éxito de tu próximo proyecto!<br>--
+
+¡Hola a todos! 👋 Soy [Katherin], Tecnóloga en Análisis y Desarrollo de Sistemas de Información y una apasionada programadora frontend de Colombia. ¡Estoy lista para marcar la diferencia en el mundo del desarrollo web!
+
+Desde que comencé en el fascinante mundo del desarrollo frontend, mi entusiasmo y curiosidad por aprender no han dejado de crecer. Soy una mente inquieta, siempre en busca de nuevos conocimientos y habilidades que me permitan mejorar tanto a nivel técnico como creativo.
+
+Mi objetivo es convertirme en una experta en la creación de experiencias de usuario excepcionales, combinando diseño atractivo con una funcionalidad impecable. Busco constantemente proyectos desafiantes que me permitan ampliar mis conocimientos en tecnologías como HTML, CSS, JavaScript y frameworks como React.
+
+Mi pasión por el desarrollo frontend va más allá de escribir código. Me encanta trabajar en equipo, aportar ideas innovadoras y colaborar para alcanzar objetivos ambiciosos. Estoy emocionada por la oportunidad de participar en proyectos diversos que me permitan seguir aprendiendo y creciendo como profesional.
+
+Si estás buscando a alguien con pasión, creatividad y un fuerte espíritu de colaboración, ¡soy la persona indicada! No dudes en contactarme para conversar sobre cómo puedo contribuir al éxito de tu próximo proyecto.
+
+<br>--
 
 
 # 💻 Tech Stack:
